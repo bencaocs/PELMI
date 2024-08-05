@@ -16,6 +16,14 @@ struct
 datetime
 pickle
 ```
+Another simply way is
+```
+conda install --yes --file requirements.txt
+```
+Or
+```
+pip install -r requirements.txt
+```
 ### Introduction of PELMI
 PELMI is an algorithm based on parity coding and local mean iteration reported by Wang et al.
 Users can run PELMI 
