@@ -51,5 +51,5 @@ decode(write_file_path, dna_path)
 ### Citing
 
 If you think this repo helps or being used in your research, please consider refer this paper.
-“PELMI: Realize robust DNA image storage under three major types of errors via parity encoding and local mean iteration”
+
 Thank you!
