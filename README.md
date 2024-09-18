@@ -52,4 +52,19 @@ decode(write_file_path, dna_path)
 
 If you think this repo helps or being used in your research, please consider refer this paper.
 
+@article{10.1093/bib/bbae463,
+    author = {Cao, Ben and Wang, Kun and Xie, Lei and Zhang, Jianxia and Zhao, Yunzhu and Wang, Bin and Zheng, Pan},
+    title = "{PELMI: Realize robust DNA image storage under general errors via parity encoding and local mean iteration}",
+    journal = {Briefings in Bioinformatics},
+    volume = {25},
+    number = {5},
+    pages = {bbae463},
+    year = {2024},
+    month = {09},
+    issn = {1477-4054},
+    doi = {10.1093/bib/bbae463},
+    url = {https://doi.org/10.1093/bib/bbae463},
+    eprint = {https://academic.oup.com/bib/article-pdf/25/5/bbae463/59148283/bbae463.pdf},
+}
+
 Thank you!
